@@ -1,5 +1,5 @@
 # TheSparkFoundation
-## Data Science and Business Analyst Internship
+# Data Science and Business Analyst Internship
 
 ## Task-1 : Prediction using Supervised ML (Level - Beginner)
 
