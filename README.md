@@ -1,7 +1,7 @@
 # TheSparkFoundation
 ## Data Science and Business Analyst Internship
 
-Task-1 : Prediction using Supervised ML (Level - Beginner)
+## Task-1 : Prediction using Supervised ML (Level - Beginner)
 
 1. Predict the percentage of marks of a student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
