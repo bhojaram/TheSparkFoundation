@@ -21,7 +21,7 @@
 2. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 3. Data can be found at https://bit.ly/3kXTdox
 
-# Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
+## Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
