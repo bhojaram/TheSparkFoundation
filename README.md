@@ -27,4 +27,12 @@
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
 3. What all business problems you can derive by exploring the data?
 4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-5. Dataset link :https://bit.ly/3i4rbWl  
+5. Dataset link:https://bit.ly/3i4rbWl
+
+ ## Task-4 : To Explore Data Analysis (Level - Beginner & Intermediate)
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+2. As a security/defense analyst, try to find out the hot zone of terrorism.
+3. What all security issues and insights you can derive by EDA?
+4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+5. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/2TK5Xn5)
